@@ -1,0 +1,6 @@
+@Dynamic_WebForm_Generator_HostAddress = http://localhost:5290
+
+GET {{Dynamic_WebForm_Generator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
